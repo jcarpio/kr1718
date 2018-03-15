@@ -9,4 +9,4 @@ member(E, [(Head, _)|Tail]) :- E \= Head, member(E, Tail).
 
 % member(aute, [(ryan, 100), (denise,500), (aute, 300), (declan, 400), (yurai, 200)]).
 
-lista([(ryan, 100), (denise,500), (aute, 300), (declan, 400), (yurai, 200)]).
+list([(ryan, 100), (denise,500), (aute, 300), (declan, 400), (yurai, 200)]).
